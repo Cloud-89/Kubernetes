@@ -1,2 +1,3 @@
 # Kubernetes
-Installation &amp; different function of kubernetes
+# Installation kubernetes Using Kops
+Launch Linux EC2 instance in AWS
