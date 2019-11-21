@@ -1,7 +1,7 @@
 # Installation of AWS CLI
- -> curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
- -> yum install unzip python     /*If your system don't have unzip & python */
- ->  unzip awscli-bundle.zip
+ curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
+ yum install unzip python     /*If your system don't have unzip & python */
+ unzip awscli-bundle.zip
  -> 
 # Kubernetes
 # Installation kubernetes Using Kops
